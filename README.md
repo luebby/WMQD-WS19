@@ -8,5 +8,5 @@ Eine ausführliche Installationsanleitung gibt es unter [hier.](https://www.fom.
 
 Öffnen Sie das Projekt über die Datei `WMQD-WS19.Rproj`.
 
-Vor der ersten Nutzung im Ordner `setup` das Skript `Pakete-installieren.R` auführen.
+Vor der ersten lokalen Nutzung im Ordner `setup` das Skript `Pakete-installieren.R` ausführen. Dies ist in der RStudio Cloud Project nicht nötig.
 
