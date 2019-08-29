@@ -6,7 +6,7 @@ Für eine lokale Nutzung muss [R](https://cloud.r-project.org/) und [RStudio Des
 
 Eine ausführliche Installationsanleitung gibt es unter [hier.](https://www.fom.de/fileadmin/fom/forschung/ifes/Install_R_RStudio_Win_macOS.pdf)
 
-Öffnen Sie das Projekt über die Datei `WMQD-WS19.Rproj`.
+Öffnen Sie lokal das Projekt über die Datei `WMQD-WS19.Rproj`.
 
 Vor der ersten lokalen Nutzung im Ordner `setup` das Skript `Pakete-installieren.R` ausführen. Dies ist in der RStudio Cloud Project nicht nötig.
 
